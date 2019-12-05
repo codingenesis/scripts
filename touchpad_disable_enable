@@ -1,0 +1,2 @@
+#https://askubuntu.com/questions/65951/how-to-disable-the-touchpad
+xinput list; xinput --disable 14
